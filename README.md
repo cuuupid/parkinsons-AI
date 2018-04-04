@@ -44,15 +44,21 @@ A Tsanas, MA Little, PE McSharry, LO Ramig (2009)
 IEEE Transactions on Biomedical Engineering (to appear).
 ```
 
-If you use this repo please cite it:
+**If you use this repo please cite it:**
 
 ```
-@misc{Priansh2018,
-  author = {Shah, Priansh},
-  title = {Detecting Parkinsons with AI},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/pshah123/parkinsons-AI}},
+Priansh Shah. (2018, April 4). Detecting Parkinsons with AI (Version DOI). Zenodo. 
+http://doi.org/10.5281/zenodo.1211859
+```
+
+Bibtex:
+```
+@misc{priansh_shah_2018_1211859,
+  author       = {Priansh Shah},
+  title        = {Detecting Parkinsons with AI},
+  month        = apr,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1211859},
+  url          = {https://doi.org/10.5281/zenodo.1211859}
 }
 ```
