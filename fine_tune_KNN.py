@@ -20,7 +20,7 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = .25, rando
 #Create the K-Neaarest-Neighbors model
 from sklearn import metrics
 from sklearn.neighbors import KNeighborsClassifier
-model = KNeighborsClassifier(n_neighbors = 5)
+model = KNeighborsClassifier()
 model.fit(X_train, Y_train)
 # make predictions
 y_pred = model.predict(X_test)
