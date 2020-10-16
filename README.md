@@ -1,4 +1,5 @@
 # Detecting Parkinsons with ML
+[![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshah123/parkinsons-AI/blob/master/Train.ipynb)
 
 We'll use the data from UC Irvine's amazing dataset repository, specifically the [Parkinsons ML database](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/).
 
