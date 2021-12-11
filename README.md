@@ -54,7 +54,7 @@ http://doi.org/10.5281/zenodo.1211859
 
 Bibtex:
 ```
-@misc{priansh_shah_2018_1211859,
+@misc{cuuupid_loves_you_2018_1211859,
   author       = {Cuuupid 💔},
   title        = {Detecting Parkinsons with AI},
   month        = apr,
