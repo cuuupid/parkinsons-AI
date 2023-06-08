@@ -1,6 +1,3 @@
-Parkinsons is a deadly disease which has no cure and usually affects people above the age group of 50 years.
-
-
 # Detecting Parkinsons with ML
 [![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshah123/parkinsons-AI/blob/master/Train.ipynb)
 
