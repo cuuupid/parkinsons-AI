@@ -1,4 +1,4 @@
-# Detecting Parkinsons with ML
+Parkinsons is a deadly disease without any cure. Researches are being carried out to discover a proper treatment for this disease. The disease usually affect people above the age group of 50 years.         # Detecting Parkinsons with ML
 [![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshah123/parkinsons-AI/blob/master/Train.ipynb)
 
 We'll use the data from UC Irvine's amazing dataset repository, specifically the [Parkinsons ML database](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/).
